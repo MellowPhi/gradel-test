@@ -1,4 +1,4 @@
-# Text-Readability-Score
+# Text-Readability-Score TO test with gradle build
 
 Generates a readability score based 
 - [Flesch–Kincaid readability](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
